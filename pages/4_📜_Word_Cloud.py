@@ -1,6 +1,7 @@
 import streamlit as st
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+import os
 
 st.set_page_config(
     page_title="CAPRP Viz",
@@ -12,11 +13,19 @@ st.set_page_config(
 st.title('Word Cloud - Visualization')
 
 def read_file(file_name):
-    file = open('data/'+file_name+".txt", "r")
-    content = file.read()
-    #print(content)
-    file.close()
-    return content.lower()
+    if(file_name == 'review'):
+        chunks = []
+        for i in range(1, 2 + 1):
+            chunk_file_path = os.path.join('data', f"{file_name}_part{i}.txt")
+            with open(chunk_file_path, 'r') as chunk_file:
+                chunks.append(chunk_file.read())
+            return ''.join(chunks).lower()
+    else:    
+        file = open('data/'+file_name+".txt", "r")
+        content = file.read()
+        #print(content)
+        file.close()
+        return content.lower()
 
 # Create and generate a word cloud image:
 def create_wordcloud(topic):

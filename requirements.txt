@@ -5,6 +5,6 @@ streamlit
 altair
 vega_datasets
 ast
-re
+regex
 wordcloud
 matplotlib

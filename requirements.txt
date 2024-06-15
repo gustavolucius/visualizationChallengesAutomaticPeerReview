@@ -1,0 +1,10 @@
+pandas
+plotly
+numpy
+streamlit
+altair
+vega_datasets
+ast
+re
+wordcloud
+matplotlib

@@ -4,7 +4,6 @@ numpy
 streamlit
 altair
 vega_datasets
-ast
 regex
 wordcloud
 matplotlib

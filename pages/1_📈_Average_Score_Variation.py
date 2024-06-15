@@ -12,7 +12,7 @@ st.set_page_config(
     #initial_sidebar_state="expanded"  # Expande a barra lateral inicialmente
 )
 
-st.title('Avarage Score Variance - Visualization')
+st.title('Avarage Score Variation - Visualization')
 
 # Checkboxes para filtrar por ano
 st.sidebar.header('Filter by Year:')

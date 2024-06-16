@@ -7,7 +7,7 @@ st.set_page_config(
 
 st.write("# Welcome! 👋")
 
-st.sidebar.success("Select a demo above.")
+st.sidebar.success("Select a visualization above.")
 
 st.markdown(
     """

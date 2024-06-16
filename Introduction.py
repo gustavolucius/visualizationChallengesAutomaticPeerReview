@@ -17,5 +17,6 @@ st.markdown(
     ### This project was developed by:    
         - 💡 Gustavo Lúcius Fernandes
         - 💡 Karen Stéfany Martins
+        - 💡 Gabriel Lima Canguçu
 """
 )

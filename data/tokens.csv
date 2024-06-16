@@ -1,0 +1,501 @@
+x,y,token,model
+4.1936917,-0.7781146,paper,BERT
+2.1635237,-1.5356001,authors,BERT
+6.557766,-0.12931313,data,BERT
+-0.7448551,1.1256992,would,BERT
+2.6227887,-0.9679387,model,BERT
+0.47151184,-2.591438,method,BERT
+-0.9696378,-2.9152436,learning,BERT
+1.7459859,-1.4704617,proposed,BERT
+11.047587,4.2274723,results,BERT
+1.329627,-0.79934466,also,BERT
+0.21236503,2.593146,work,BERT
+-0.9742734,-2.5498538,training,BERT
+1.237857,-3.6396155,experiments,BERT
+-1.5605845,1.1777546,well,BERT
+-2.005586,1.1008364,one,BERT
+0.3999,-0.99778163,different,BERT
+-1.3496573,-2.056101,using,BERT
+1.4175892,-2.0316277,section,BERT
+-0.92289555,-0.06616697,used,BERT
+1.0679123,-4.0523868,methods,BERT
+-1.654186,-0.67267704,based,BERT
+2.8138268,-1.349726,performance,BERT
+-1.4828157,-3.3903208,approach,BERT
+-0.7201637,-0.36592293,seems,BERT
+-1.3689148,1.5251198,could,BERT
+0.44151476,-1.5407428,problem,BERT
+0.4128112,-1.475037,models,BERT
+-2.3516295,-0.12611188,use,BERT
+0.29175064,0.44104278,better,BERT
+0.23253933,-0.9900417,interesting,BERT
+0.36093026,-2.8843298,algorithm,BERT
+0.76989216,-1.706045,network,BERT
+2.237785,-0.10965933,however,BERT
+3.132867,1.1728685,general,BERT
+-2.9250944,-0.09295826,clear,BERT
+-2.486787,0.1584923,like,BERT
+-1.7665772,1.6373612,two,BERT
+-3.1467526,-2.1476958,neural,BERT
+-2.3175266,1.115085,think,BERT
+-2.1499786,0.26932812,see,BERT
+-4.3102536,1.4792217,con,BERT
+-1.1500902,5.938177,r,BERT
+-1.4408654,7.538463,x,BERT
+2.5585155,-3.218233,networks,BERT
+-2.0748236,-0.9147811,task,BERT
+-0.059591033,-1.0981214,baseline,BERT
+-0.09656487,3.3929083,show,BERT
+2.3708625,-1.6222917,tasks,BERT
+1.1624967,1.7668066,new,BERT
+1.3858685,1.5901902,good,BERT
+1.3373568,2.1988544,loss,BERT
+-2.5856721,2.878136,main,BERT
+-2.2050679,0.1522305,figure,BERT
+-1.3917716,0.41418174,function,BERT
+-1.6355106,1.1682326,example,BERT
+-1.6030253,-0.014584614,time,BERT
+-2.7198331,-0.65378165,idea,BERT
+-0.20631379,-0.48364404,image,BERT
+5.204677,-1.5672581,gradient,BERT
+-4.0693746,2.656076,l,BERT
+0.45303065,-4.074657,analysis,BERT
+1.3242257,3.1213412,p,BERT
+-0.49487025,-3.4486518,experimental,BERT
+-1.0425563,0.6851742,number,BERT
+8.235177,0.862853,information,BERT
+1.4447525,0.2019635,first,BERT
+-3.0723803,1.9948567,ad,BERT
+5.5554,3.8166618,state,BERT
+-0.43232405,0.858751,set,BERT
+-4.311315,4.9898944,k,BERT
+-2.9389966,-0.30230808,given,BERT
+0.03923746,-1.7377355,important,BERT
+0.76264375,-3.5128694,distribution,BERT
+-0.78334355,-0.11407923,since,BERT
+-4.1677756,-0.35766193,case,BERT
+4.721585,-2.1513891,architecture,BERT
+0.28742734,-1.4435095,many,BERT
+-1.3078316,-0.9264421,deep,BERT
+3.7805848,1.0064251,table,BERT
+-3.6123507,-0.18278955,make,BERT
+-0.46786433,-0.80023485,class,BERT
+-4.4757643,1.1530355,un,BERT
+3.5514026,6.825736,point,BERT
+-0.45357138,-1.5899448,related,BERT
+0.38484558,-3.6057186,evaluation,BERT
+-1.3598282,2.0046225,may,BERT
+-2.6623363,-3.5325599,empirical,BERT
+-2.121125,-0.43796942,space,BERT
+-3.484897,-0.20256767,understand,BERT
+11.606761,4.6406145,overall,BERT
+-3.1086051,5.139791,n,BERT
+4.258099,0.0053518,graph,BERT
+-0.9788109,0.73579973,much,BERT
+-2.912954,1.4863514,pro,BERT
+3.465404,-2.598666,policy,BERT
+-2.723674,-1.8300059,proposes,BERT
+-4.8020363,3.0370548,non,BERT
+-0.21181574,-2.2539032,compared,BERT
+-2.8293953,1.1772038,provide,BERT
+2.1507185,-3.352596,comparison,BERT
+2.7670653,-0.9314641,paper,Rating < 5
+1.223286,-1.8956317,authors,Rating < 5
+4.501212,0.38508594,data,Rating < 5
+-0.25443664,-0.82940835,would,Rating < 5
+1.3327163,-0.6396142,model,Rating < 5
+1.2348248,-1.2505094,method,Rating < 5
+-1.6827508,-1.7306018,learning,Rating < 5
+1.4207003,-1.9436219,proposed,Rating < 5
+7.674622,1.2934358,results,Rating < 5
+1.334684,-0.964527,also,Rating < 5
+1.5469437,-0.18807659,work,Rating < 5
+1.4887238,-0.5408221,training,Rating < 5
+2.9546213,-2.17282,experiments,Rating < 5
+-1.7632467,-1.8128186,well,Rating < 5
+0.33454153,2.2713828,one,Rating < 5
+-0.559004,-0.4349023,different,Rating < 5
+-3.2897518,-1.7427268,using,Rating < 5
+0.77633256,-0.12548731,section,Rating < 5
+-1.9012247,-1.3871623,used,Rating < 5
+1.3998859,-2.7755344,methods,Rating < 5
+-2.4679024,-1.1485641,based,Rating < 5
+4.082328,-0.27652106,performance,Rating < 5
+-1.5300022,-2.2014987,approach,Rating < 5
+-2.386867,-1.8384001,seems,Rating < 5
+-0.64079225,-0.6001057,could,Rating < 5
+1.2759423,-0.41680485,problem,Rating < 5
+1.8417372,-1.4468436,models,Rating < 5
+-3.4960368,-0.84604096,use,Rating < 5
+0.18040836,-0.37408566,better,Rating < 5
+1.6836796,-2.6475108,interesting,Rating < 5
+0.49566472,-1.2079453,algorithm,Rating < 5
+1.3649533,-1.2715756,network,Rating < 5
+0.525884,-1.1503434,however,Rating < 5
+2.8931456,2.2192879,general,Rating < 5
+-1.8324183,-0.13888015,clear,Rating < 5
+-2.7564585,0.1352383,like,Rating < 5
+2.0111191,1.4949833,two,Rating < 5
+-2.7781842,-1.3695724,neural,Rating < 5
+-3.3544328,-0.434091,think,Rating < 5
+-3.098026,-0.58846325,see,Rating < 5
+-3.1609192,2.6907449,con,Rating < 5
+-1.6220158,4.2393823,r,Rating < 5
+-0.66945684,4.9116254,x,Rating < 5
+2.1033244,-3.0475361,networks,Rating < 5
+1.8407732,0.45735458,task,Rating < 5
+3.105626,-0.083878554,baseline,Rating < 5
+1.4502393,0.98074853,show,Rating < 5
+5.329034,-0.57961047,tasks,Rating < 5
+0.45070857,0.039769217,new,Rating < 5
+2.3173537,0.3703575,good,Rating < 5
+1.19964,2.7263281,loss,Rating < 5
+1.6469313,3.3105724,main,Rating < 5
+-0.7500289,0.047141604,figure,Rating < 5
+-1.0203861,0.13040204,function,Rating < 5
+-1.8798245,1.1176422,example,Rating < 5
+-1.1015604,-0.17284927,time,Rating < 5
+-1.5999957,-0.8409363,idea,Rating < 5
+0.76712584,0.010601543,image,Rating < 5
+2.4002702,0.48210433,gradient,Rating < 5
+-2.4836764,4.911026,l,Rating < 5
+-0.845807,-1.722678,analysis,Rating < 5
+0.94049686,5.8260655,p,Rating < 5
+0.021789696,-1.1711202,experimental,Rating < 5
+-0.7434035,-0.25872326,number,Rating < 5
+2.2972596,-0.61895734,information,Rating < 5
+0.75885904,1.0763524,first,Rating < 5
+-3.7999842,1.5035604,ad,Rating < 5
+4.177048,4.0165606,state,Rating < 5
+-0.5424876,0.034641724,set,Rating < 5
+-2.7240303,4.14278,k,Rating < 5
+-2.635358,0.21296579,given,Rating < 5
+-0.24739107,-1.5775607,important,Rating < 5
+-0.37588432,-0.47008064,distribution,Rating < 5
+-2.1766143,-1.6720711,since,Rating < 5
+-3.8258965,0.076879025,case,Rating < 5
+2.3234432,-1.9398929,architecture,Rating < 5
+0.4413188,-2.5654852,many,Rating < 5
+-2.5895746,-0.88079315,deep,Rating < 5
+2.8424194,1.0097786,table,Rating < 5
+-3.7421916,-0.40177602,make,Rating < 5
+0.1633364,0.68159646,class,Rating < 5
+-4.3549747,0.81254554,un,Rating < 5
+1.7647163,5.502171,point,Rating < 5
+0.0752277,-1.2633879,related,Rating < 5
+3.8199625,-0.2604133,evaluation,Rating < 5
+-1.7209973,0.17063685,may,Rating < 5
+0.37082207,-1.9152822,empirical,Rating < 5
+-2.1326182,-0.2571289,space,Rating < 5
+-2.9530761,-0.54849374,understand,Rating < 5
+5.256349,0.9616331,overall,Rating < 5
+-2.8925223,3.930037,n,Rating < 5
+0.9671418,-1.4436517,graph,Rating < 5
+-1.0757078,-1.1396348,much,Rating < 5
+-1.6248006,4.2247176,pro,Rating < 5
+1.1608207,-0.3180226,policy,Rating < 5
+-1.8016781,-1.9589417,proposes,Rating < 5
+-2.6319237,1.7619131,non,Rating < 5
+-1.2901784,-1.3072463,compared,Rating < 5
+-1.6305964,-0.9717887,provide,Rating < 5
+0.100049146,-1.459149,comparison,Rating < 5
+2.5464792,-2.062702,paper,Rating = 5
+0.78763616,-1.9200312,authors,Rating = 5
+6.9080176,0.22680962,data,Rating = 5
+-1.0402763,-0.93103343,would,Rating = 5
+3.2435322,-1.6316376,model,Rating = 5
+1.541033,-1.7027755,method,Rating = 5
+-1.2073244,-2.0985262,learning,Rating = 5
+0.3505951,-2.2044327,proposed,Rating = 5
+8.440998,1.2098562,results,Rating = 5
+1.1721392,-0.76516235,also,Rating = 5
+1.4034874,-1.7457734,work,Rating = 5
+2.0794723,-1.1384621,training,Rating = 5
+3.0009224,-1.5076162,experiments,Rating = 5
+-2.1913564,-1.1510476,well,Rating = 5
+-1.0119959,2.6806538,one,Rating = 5
+-0.0961897,-0.97121775,different,Rating = 5
+-4.1622252,-1.1618298,using,Rating = 5
+1.1129395,-1.4203092,section,Rating = 5
+-2.5595472,-1.4427086,used,Rating = 5
+1.3696626,-2.1501594,methods,Rating = 5
+-3.310326,-1.736658,based,Rating = 5
+4.842308,0.5342583,performance,Rating = 5
+-2.8800936,-1.5752947,approach,Rating = 5
+-2.6981134,-1.9973142,seems,Rating = 5
+-0.94915676,-0.58733135,could,Rating = 5
+1.9835513,-1.6485436,problem,Rating = 5
+3.1582935,-2.1246438,models,Rating = 5
+-3.524714,-1.183085,use,Rating = 5
+-0.38858026,-1.0658903,better,Rating = 5
+0.42147377,-2.7221823,interesting,Rating = 5
+0.729683,-1.529961,algorithm,Rating = 5
+2.2616801,-2.6176279,network,Rating = 5
+0.24135317,-1.3234481,however,Rating = 5
+4.377256,1.5320116,general,Rating = 5
+-3.115003,0.5587665,clear,Rating = 5
+-3.3459625,-0.25589454,like,Rating = 5
+1.2599016,3.6439247,two,Rating = 5
+-3.5213072,-0.83717376,neural,Rating = 5
+-3.3799837,-1.1144398,think,Rating = 5
+-2.3607259,-1.0113161,see,Rating = 5
+-3.0754862,3.985548,con,Rating = 5
+-1.653599,2.8167338,r,Rating = 5
+1.2050662,8.501634,x,Rating = 5
+2.1140997,-4.2097807,networks,Rating = 5
+1.9724514,-0.5108115,task,Rating = 5
+3.5998845,-0.0014603888,baseline,Rating = 5
+1.2691178,1.6479777,show,Rating = 5
+6.805854,-0.3858868,tasks,Rating = 5
+0.08907755,-0.31711733,new,Rating = 5
+1.6014419,-0.566609,good,Rating = 5
+3.2913935,3.018694,loss,Rating = 5
+1.9013159,2.6889138,main,Rating = 5
+-1.639377,1.0350375,figure,Rating = 5
+-1.0890377,0.8540091,function,Rating = 5
+-2.1507418,1.9283599,example,Rating = 5
+-1.721642,-0.5307382,time,Rating = 5
+-2.6969714,-1.1529777,idea,Rating = 5
+2.1265879,0.12685986,image,Rating = 5
+3.1123793,1.0778515,gradient,Rating = 5
+-2.9678934,5.8824573,l,Rating = 5
+0.09434161,-1.519775,analysis,Rating = 5
+0.7301286,6.0195775,p,Rating = 5
+-0.94988567,-0.5544261,experimental,Rating = 5
+-2.4482205,-0.10657127,number,Rating = 5
+4.449772,-1.5942396,information,Rating = 5
+0.3039819,-0.2098627,first,Rating = 5
+-3.9664025,2.2047472,ad,Rating = 5
+6.029029,3.9375353,state,Rating = 5
+-1.6619865,-0.5457166,set,Rating = 5
+-2.337968,5.7026567,k,Rating = 5
+-3.756891,0.38760185,given,Rating = 5
+-1.2241361,-2.0899024,important,Rating = 5
+-0.9151346,-0.72344434,distribution,Rating = 5
+-1.8286184,-1.2890601,since,Rating = 5
+-4.1596427,0.48912293,case,Rating = 5
+4.476074,-1.1759175,architecture,Rating = 5
+-0.6770372,-2.7384856,many,Rating = 5
+-3.9222102,-0.46124744,deep,Rating = 5
+4.250901,1.0571259,table,Rating = 5
+-3.9844882,-0.82311064,make,Rating = 5
+0.36684033,-0.36855116,class,Rating = 5
+-4.4972353,1.5394758,un,Rating = 5
+2.8312278,5.8066196,point,Rating = 5
+0.24019766,-1.6153632,related,Rating = 5
+3.7858377,1.3295352,evaluation,Rating = 5
+-0.92593855,0.5185919,may,Rating = 5
+-1.2209527,-1.1490617,empirical,Rating = 5
+-1.7621282,0.06429291,space,Rating = 5
+-2.9536653,-0.69125795,understand,Rating = 5
+4.990787,0.120446905,overall,Rating = 5
+-3.263228,5.632852,n,Rating = 5
+0.50498,-1.9590888,graph,Rating = 5
+-1.4714682,-1.7436855,much,Rating = 5
+-1.2051718,3.6291723,pro,Rating = 5
+1.6665492,-0.9512351,policy,Rating = 5
+-2.0627198,-1.4637692,proposes,Rating = 5
+-3.215558,2.8979075,non,Rating = 5
+-1.5103482,-1.5058864,compared,Rating = 5
+-3.136427,-1.1613925,provide,Rating = 5
+0.7533533,-1.8349999,comparison,Rating = 5
+2.6238387,-2.2151856,paper,Rating = 6
+2.060851,-2.0420177,authors,Rating = 6
+5.3131104,-0.16840559,data,Rating = 6
+-0.61349297,1.5014967,would,Rating = 6
+0.47003004,-2.4114492,model,Rating = 6
+-0.54373866,-1.895597,method,Rating = 6
+-1.7774518,-1.9023527,learning,Rating = 6
+1.0930446,-1.5289558,proposed,Rating = 6
+8.712305,0.023787662,results,Rating = 6
+1.0812685,3.4104989,also,Rating = 6
+1.0496867,-1.3393834,work,Rating = 6
+1.1156069,-1.4167123,training,Rating = 6
+3.3966947,-3.2598832,experiments,Rating = 6
+-1.5361658,1.4339769,well,Rating = 6
+0.493468,2.8974898,one,Rating = 6
+1.2819949,1.0466449,different,Rating = 6
+-4.1782966,-0.23162924,using,Rating = 6
+1.258715,-0.38899806,section,Rating = 6
+-1.720441,-0.9330555,used,Rating = 6
+0.14631508,-2.75773,methods,Rating = 6
+-2.65061,-0.83586645,based,Rating = 6
+3.4105132,-2.1037636,performance,Rating = 6
+-2.8824592,-2.1377718,approach,Rating = 6
+-1.2977129,-0.7596998,seems,Rating = 6
+-0.6375612,1.8209047,could,Rating = 6
+0.5430246,-1.439723,problem,Rating = 6
+1.3820744,-2.3037343,models,Rating = 6
+-4.0607686,-0.1841618,use,Rating = 6
+0.26479822,0.6326,better,Rating = 6
+1.261064,-0.3603249,interesting,Rating = 6
+-0.95790565,-1.2348983,algorithm,Rating = 6
+2.3981805,-1.4582658,network,Rating = 6
+1.4894506,1.5719765,however,Rating = 6
+3.1818378,1.6259685,general,Rating = 6
+-2.52015,-0.017330224,clear,Rating = 6
+-1.9610597,1.5103854,like,Rating = 6
+2.575129,3.2012858,two,Rating = 6
+-3.7171621,-1.4710364,neural,Rating = 6
+-3.2631009,-0.4864168,think,Rating = 6
+-2.6922665,0.56294227,see,Rating = 6
+-3.1704378,0.5197738,con,Rating = 6
+-2.152635,3.7758546,r,Rating = 6
+2.806422,8.043627,x,Rating = 6
+2.4867725,-2.8449936,networks,Rating = 6
+1.1896994,-1.035029,task,Rating = 6
+2.2248309,-1.5859555,baseline,Rating = 6
+0.37060925,-0.32335195,show,Rating = 6
+6.4389315,-1.3711721,tasks,Rating = 6
+1.6448897,0.009355522,new,Rating = 6
+2.8699458,2.2162907,good,Rating = 6
+1.8805329,2.526005,loss,Rating = 6
+3.8257442,2.0150576,main,Rating = 6
+-2.1026604,0.104043886,figure,Rating = 6
+-1.6472924,-0.0140395975,function,Rating = 6
+-1.8286289,1.474634,example,Rating = 6
+-0.7085116,-0.00093244726,time,Rating = 6
+-2.732258,-1.3629004,idea,Rating = 6
+1.7927195,-0.88753474,image,Rating = 6
+2.5253553,0.87133485,gradient,Rating = 6
+-2.247495,3.2291245,l,Rating = 6
+-0.54023176,-2.47174,analysis,Rating = 6
+1.0008965,7.6042686,p,Rating = 6
+-0.32150003,-2.484699,experimental,Rating = 6
+-0.5457202,0.6953416,number,Rating = 6
+4.591032,-0.55917335,information,Rating = 6
+1.3574,2.1092324,first,Rating = 6
+-4.409105,2.0415456,ad,Rating = 6
+3.9236362,1.7638222,state,Rating = 6
+-0.97211367,-1.0886862,set,Rating = 6
+-2.1379387,5.427782,k,Rating = 6
+-2.6392357,-0.041059457,given,Rating = 6
+-1.1089926,-1.4148474,important,Rating = 6
+-1.0939722,-1.7949342,distribution,Rating = 6
+-1.5266724,0.8962677,since,Rating = 6
+-4.151527,-0.5335642,case,Rating = 6
+3.3780885,-0.83253545,architecture,Rating = 6
+-0.0861994,-1.2525331,many,Rating = 6
+-2.5492883,-0.9512203,deep,Rating = 6
+3.6332989,-0.5766026,table,Rating = 6
+-3.8245106,-0.2913866,make,Rating = 6
+-0.78222996,-0.9465534,class,Rating = 6
+-3.2280676,-0.3204588,un,Rating = 6
+-0.31265017,0.97407734,point,Rating = 6
+1.2039899,0.2120956,related,Rating = 6
+2.6775448,-1.5024645,evaluation,Rating = 6
+-1.2279335,-0.031037373,may,Rating = 6
+-0.9585322,-2.3137038,empirical,Rating = 6
+-1.1773417,-0.72493994,space,Rating = 6
+-3.1787817,-0.6615529,understand,Rating = 6
+6.3735976,1.2848552,overall,Rating = 6
+-3.3959503,4.497966,n,Rating = 6
+0.7844893,-0.9656134,graph,Rating = 6
+-1.0854717,-0.98326147,much,Rating = 6
+-1.7073765,1.9897945,pro,Rating = 6
+-0.29459396,-0.758085,policy,Rating = 6
+-1.4575483,-2.0882132,proposes,Rating = 6
+-2.527447,0.9260432,non,Rating = 6
+-1.8052051,-1.0953217,compared,Rating = 6
+-2.6361916,-1.1540372,provide,Rating = 6
+-0.3008361,-1.8996861,comparison,Rating = 6
+1.7655168,-2.5966487,paper,Rating > 6
+1.0528569,-2.6435084,authors,Rating > 6
+4.268023,0.1570442,data,Rating > 6
+-1.2159464,3.1061041,would,Rating > 6
+2.7240067,-2.0481837,model,Rating > 6
+-0.19819376,-2.3648903,method,Rating > 6
+-2.5067234,-1.6193565,learning,Rating > 6
+1.8898113,-1.920586,proposed,Rating > 6
+8.311475,-0.9363927,results,Rating > 6
+0.8446434,4.2455115,also,Rating > 6
+2.4510744,-0.24425648,work,Rating > 6
+0.24681245,-1.4748806,training,Rating > 6
+1.5952973,-4.2707195,experiments,Rating > 6
+-2.313173,2.7639456,well,Rating > 6
+-0.070159845,3.014601,one,Rating > 6
+-0.10621351,0.48022556,different,Rating > 6
+-3.6416206,-0.4933575,using,Rating > 6
+1.5798028,0.095005065,section,Rating > 6
+-1.2286112,-0.42742953,used,Rating > 6
+-0.65464294,-2.868154,methods,Rating > 6
+-3.3749294,-0.031118888,based,Rating > 6
+3.0986443,-2.3827777,performance,Rating > 6
+-2.5987353,-3.040345,approach,Rating > 6
+-2.3876343,0.11370389,seems,Rating > 6
+-1.2736652,3.4413514,could,Rating > 6
+0.6616568,-1.4414021,problem,Rating > 6
+2.9544342,-2.1559854,models,Rating > 6
+-2.287418,-0.6402817,use,Rating > 6
+-0.48270652,2.004898,better,Rating > 6
+-0.28760493,-0.07303648,interesting,Rating > 6
+0.21982332,-1.8341734,algorithm,Rating > 6
+0.8920281,-1.1850873,network,Rating > 6
+0.7857606,1.1391305,however,Rating > 6
+3.6233554,1.2970345,general,Rating > 6
+-2.5931454,0.29860947,clear,Rating > 6
+-2.4936132,4.034977,like,Rating > 6
+1.36982,3.2115455,two,Rating > 6
+-4.3733387,-1.0176512,neural,Rating > 6
+-2.9188566,0.52970135,think,Rating > 6
+-2.1262622,0.9056869,see,Rating > 6
+-2.517698,-0.047091085,con,Rating > 6
+-0.18237153,2.7527547,r,Rating > 6
+6.148744,5.429345,x,Rating > 6
+0.5951854,-2.4294548,networks,Rating > 6
+1.9473794,-0.7371273,task,Rating > 6
+2.5107465,-2.3364706,baseline,Rating > 6
+2.1540136,0.1076117,show,Rating > 6
+6.2076306,-2.1718276,tasks,Rating > 6
+1.478423,0.9730363,new,Rating > 6
+1.4131931,3.3931425,good,Rating > 6
+3.1697903,1.7969699,loss,Rating > 6
+4.3247037,2.1762323,main,Rating > 6
+-0.7613993,-0.18388747,figure,Rating > 6
+-0.2419609,-1.0729587,function,Rating > 6
+-1.0511608,1.313169,example,Rating > 6
+-1.1261188,1.3943183,time,Rating > 6
+-2.3212042,-0.90124065,idea,Rating > 6
+1.5198312,-0.55023086,image,Rating > 6
+1.0233946,-1.163956,gradient,Rating > 6
+-1.8618884,2.987903,l,Rating > 6
+-2.0224795,-3.3283265,analysis,Rating > 6
+1.4080107,3.6871583,p,Rating > 6
+-1.6136155,-2.892116,experimental,Rating > 6
+-1.6597098,0.108926125,number,Rating > 6
+4.185304,0.3430829,information,Rating > 6
+0.37198445,3.583684,first,Rating > 6
+-3.1111565,1.963098,ad,Rating > 6
+4.4036455,2.342725,state,Rating > 6
+-0.6713588,-0.051244427,set,Rating > 6
+-0.5827205,2.9959445,k,Rating > 6
+-1.9237475,0.901865,given,Rating > 6
+-0.55334026,-0.97601944,important,Rating > 6
+-0.3027732,-1.7810245,distribution,Rating > 6
+-2.0291498,1.6402489,since,Rating > 6
+-3.932046,-0.19192797,case,Rating > 6
+2.108154,-2.613902,architecture,Rating > 6
+-0.39262742,-0.24302211,many,Rating > 6
+-3.3085847,0.4374673,deep,Rating > 6
+3.7493365,-0.307945,table,Rating > 6
+-3.6831706,0.7981601,make,Rating > 6
+-0.26371953,-0.51534784,class,Rating > 6
+-3.0182273,-0.11316837,un,Rating > 6
+3.1934628,0.8576542,point,Rating > 6
+1.239927,-1.0844789,related,Rating > 6
+1.6308185,-3.3389857,evaluation,Rating > 6
+-1.2631384,-0.22569752,may,Rating > 6
+-2.6223803,-2.3404493,empirical,Rating > 6
+-2.7973955,-0.03213603,space,Rating > 6
+-2.837024,-0.74319124,understand,Rating > 6
+6.2747116,0.9109361,overall,Rating > 6
+-2.3988032,3.93616,n,Rating > 6
+0.6266883,-1.0232857,graph,Rating > 6
+-1.520853,0.7644688,much,Rating > 6
+-0.69368404,1.0104717,pro,Rating > 6
+-0.5695913,-1.6607553,policy,Rating > 6
+-1.489342,-3.1277416,proposes,Rating > 6
+-2.3144536,0.32512155,non,Rating > 6
+-2.2588227,-0.7191919,compared,Rating > 6
+-1.7011168,-1.0994375,provide,Rating > 6
+-1.2878841,-2.05685,comparison,Rating > 6
